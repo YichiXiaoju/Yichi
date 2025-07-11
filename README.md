@@ -18,7 +18,7 @@ I'm a senior undergraduate student at **Stony Brook University**, majoring in Ap
   Preparing to apply for **Ph.D. or M.S. programs for Fall 2026** to pursue research in machine learning with applications in molecular design, scientific discovery, and automated reasoning.
 
 - **Advised by:**  
-  [Professor Yi Liu](https://you.stonybrook.edu/yiliu/) at Stony Brook University
+  [Professor Yi Liu](https://jacoblau0513.github.io/) at Stony Brook University
 
 ---
 
@@ -32,11 +32,9 @@ I'm a senior undergraduate student at **Stony Brook University**, majoring in Ap
 ## Links
 
 - 🌐 [Personal Webpage](https://yichixiaoju.github.io/YichiZhang.github.io/)
-- 📄 [Curriculum Vitae](https://yichixiaoju.github.io/YichiZhang.github.io/cv)
 - 📫 [Email](mailto:yichi.zhang@stonybrook.edu)
 - 🏫 [Stony Brook University](https://www.stonybrook.edu/)
 - [GitHub](https://github.com/YichiXiaoju)
-- [LinkedIn](https://www.linkedin.com/in/yichi-zhang)
 
 ---
 
