@@ -25,8 +25,7 @@ I'm a senior undergraduate student at **Stony Brook University**, majoring in Ap
 ## Skills
 
 - **Programming:** Python (PyTorch)
-- **Domains:** Deep Learning, Generative Models, Molecular Design, Applied Mathematics
-
+- **Domains:** Deep Learning, Generative Models, Large Language Models, Aritificial Intelligence
 ---
 
 ## Links
