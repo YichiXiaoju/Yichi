@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a senior undergraduate student at **Stony Brook University**, majoring in Applied Mathematics and Statistics. My research interests are at the intersection of **AI for Science**, **Large Language Models (LLMs)**, and **Generative Models**.
+I'm a senior undergraduate student at [**Stony Brook University**](https://www.stonybrook.edu/), majoring in [Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/). My research interests are at the intersection of **AI for Science**, **Large Language Models (LLMs)**, and **Generative Models**.
 
 - **Research Focus:**  
   Leveraging LLMs for molecular optimization and drug editing—investigating how language-based models can understand and manipulate chemical structures using SMILES, SELFIES, and graph-based prompts. I am also interested in generative models that propose novel molecules with desirable properties under complex constraints.
@@ -25,7 +25,7 @@ I'm a senior undergraduate student at **Stony Brook University**, majoring in Ap
 ## Skills
 
 - **Programming:** Python (PyTorch)
-- **Domains:** Deep Learning, Generative Models, Large Language Models, Aritificial Intelligence
+- **Domains:** Deep Learning, Large Language Model, Generative Models, Aritificial Intelligence
 ---
 
 ## Links
@@ -33,8 +33,6 @@ I'm a senior undergraduate student at **Stony Brook University**, majoring in Ap
 - 🌐 [Personal Webpage](https://yichixiaoju.github.io/YichiZhang.github.io/)
 - 📫 [Email](mailto:yichi.zhang@stonybrook.edu)
 - 🏫 [Stony Brook University](https://www.stonybrook.edu/)
-- [GitHub](https://github.com/YichiXiaoju)
-
 ---
 
 _Rise above, focus on science._
